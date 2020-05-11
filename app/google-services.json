@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558751951701",
+    "firebase_url": "https://android-firebase-46ea9.firebaseio.com",
+    "project_id": "android-firebase-46ea9",
+    "storage_bucket": "android-firebase-46ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558751951701:android:1f332173002ab73a2a5ddc",
+        "android_client_info": {
+          "package_name": "com.example.holamundo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558751951701-cb2pfecvl4s8i8j67dcpu7uevbe94adt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdne1flNrq0NI_w8iJR5v9UevdqET0LoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558751951701-cb2pfecvl4s8i8j67dcpu7uevbe94adt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
